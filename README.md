@@ -3,6 +3,9 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/wzshiming/winseq)](https://goreportcard.com/report/github.com/wzshiming/winseq)
 [![GitHub license](https://img.shields.io/github/license/wzshiming/winseq.svg)](https://github.com/wzshiming/winseq/blob/master/LICENSE)
 
+- [English](https://github.com/wzshiming/winseq/blob/master/README.md)
+- [简体中文](https://github.com/wzshiming/winseq/blob/master/README_cn.md)
+
 Use Unix like Sequences in Windows
 
 Virtual terminal sequences are control character sequences that can control cursor movement, color/font mode, and other operations when written to the output stream.  
