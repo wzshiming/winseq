@@ -21,6 +21,9 @@ import _ "github.com/wzshiming/winseq"
 
 ```
 
+[控制终端颜色](https://github.com/wzshiming/ctc)  
+[控制终端光标](https://github.com/wzshiming/cursor)  
+
 ## 许可证
 
 软包根据MIT License。有关完整的许可证文本，请参阅[LICENSE](https://github.com/wzshiming/winseq/blob/master/LICENSE)

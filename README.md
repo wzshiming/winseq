@@ -21,6 +21,9 @@ import _ "github.com/wzshiming/winseq"
 
 ```
 
+[Console control Colors](https://github.com/wzshiming/ctc)  
+[Console control cursor](https://github.com/wzshiming/cursor)  
+
 ## License
 
 Pouch is licensed under the MIT License. See [LICENSE](https://github.com/wzshiming/winseq/blob/master/LICENSE) for the full license text.
