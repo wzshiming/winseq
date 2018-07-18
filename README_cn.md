@@ -1,5 +1,6 @@
 # Windows 虚拟终端序列
 
+[![Build Status](https://travis-ci.org/wzshiming/winseq.svg?branch=master)](https://travis-ci.org/wzshiming/winseq)
 [![Go Report Card](https://goreportcard.com/badge/github.com/wzshiming/winseq)](https://goreportcard.com/report/github.com/wzshiming/winseq)
 [![GitHub license](https://img.shields.io/github/license/wzshiming/winseq.svg)](https://github.com/wzshiming/winseq/blob/master/LICENSE)
 
