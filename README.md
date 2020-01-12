@@ -22,7 +22,7 @@ import _ "github.com/wzshiming/winseq"
 
 ```
 
-[Console control Colors](https://github.com/wzshiming/ctc)  
+[Console control colors](https://github.com/wzshiming/ctc)  
 [Console control cursor](https://github.com/wzshiming/cursor)  
 
 ## License
